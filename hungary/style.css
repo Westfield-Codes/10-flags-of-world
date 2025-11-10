@@ -8,7 +8,7 @@ a {
 }
 .flag {
     width:900px;
-    height:6000px;
+    height:600px;
     margin:auto;
     border:1px solid black;
 }
@@ -19,4 +19,12 @@ a {
 
 .red {
     background:red;
+}
+
+.white {
+    background:white;
+}
+
+.green {
+    background:darkgreen;
 }
