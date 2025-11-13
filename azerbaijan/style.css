@@ -16,18 +16,23 @@ a {
     width:100%;
     height:100px;
 }
-.white{
-    background:#EF3340;
+.lightblue{
+    background:#00B5E2;
 }
 .green{
-    background:#00976E;
+    background:#EF3340;
 }
 .red{
-    background:#00B5E2;
+    background:#509E2F;
 }
 body{
     background:#F8F8F8;
 }
-
+img{
+    text-align:center;
+    width:27%;
+    display:block;
+    margin:auto;
+}
 
 
