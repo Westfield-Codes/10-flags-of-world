@@ -9,7 +9,7 @@ a {
 }
 
 .flag {
-    width:1050px;
+    width:750px;
     height:500px;
     margin:auto;
     position: relative;
@@ -17,7 +17,7 @@ a {
 
 .stripe {
     width:100%;
-    height:55.5px;
+    height:55.35px;
 }
 
 body{
